@@ -84,6 +84,42 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "ol": {
+      "api": "https://olevod.com/api.php/provide/vod",
+      "name": "欧乐"
+    },
+    "tubi": {
+      "api": "https://tubitv.com/api.php/provide/vod",
+      "name": "tubi"
+    },
+    "nf": {
+      "api": "https://yanetflix.com/api.php/provide/vod",
+      "name": "奈飞" 
+    },
+    "qd": {
+      "api": "https://www.7.movie/api.php/provide/vod",
+      "name": "七点" 
+    },
+    "kpkr": {
+      "api": "https://kpkr6.cc/api.php/provide/vod",
+      "name": "看片狂人" 
+    },
+    "iqys": {
+      "api": "https://iqiyis.com/api.php/provide/vod",
+      "name": "爱奇影院" 
+    },
+    "gaze": {
+      "api": "https://gaze.run/api.php/provide/vod",
+      "name": "注视影视"  
+    },
+    "fktv": {
+      "api": "https://fktv.me/api.php/provide/vod",
+      "name": "凡客影视" 
+    },
+    "smdy": {
+      "api": "https://smdyjs.com/api.php/provide/vod",
+      "name": "神马电影"
     }
   }
 }

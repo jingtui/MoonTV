@@ -85,41 +85,41 @@
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     },
-    "ol": {
-      "api": "https://olevod.com/api.php/provide/vod",
-      "name": "欧乐"
+    "hlzy": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
     },
-    "tubi": {
-      "api": "https://tubitv.com/api.php/provide/vod",
-      "name": "tubi"
+    "smb": {
+      "api": "https://jisjiexi.com/api.php/provide/vod",
+      "name": "三秒播"
     },
-    "nf": {
-      "api": "https://yanetflix.com/api.php/provide/vod",
-      "name": "奈飞" 
+    "ok": {
+      "api": "https://api.okzyw.net/api.php/provide/vod",
+      "name": "ok资源" 
     },
-    "qd": {
-      "api": "https://www.7.movie/api.php/provide/vod",
-      "name": "七点" 
+    "sony": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源" 
     },
-    "kpkr": {
-      "api": "https://kpkr6.cc/api.php/provide/vod",
-      "name": "看片狂人" 
+    "gszy": {
+      "api": "http://cj.guangsuzy.com/api.php/provide/vod",
+      "name": "光速资源" 
     },
-    "iqys": {
-      "api": "https://iqiyis.com/api.php/provide/vod",
-      "name": "爱奇影院" 
+    "tpzy": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "淘片资源" 
     },
-    "gaze": {
-      "api": "https://gaze.run/api.php/provide/vod",
-      "name": "注视影视"  
+    "jyzy": {
+      "api": "https://hd.ijycnd.com/api.php/provide/vod",
+      "name": "金鹰资源"  
     },
-    "fktv": {
-      "api": "https://fktv.me/api.php/provide/vod",
-      "name": "凡客影视" 
+    "tszy": {
+      "api": "https://gayzy.tv/api.php/provide/vod",
+      "name": "特殊资源" 
     },
-    "smdy": {
-      "api": "https://smdyjs.com/api.php/provide/vod",
-      "name": "神马电影"
+    "kbzy": {
+      "api": "https://gayapi.com/api.php/provide/vod",
+      "name": "快播资源"
     }
   }
 }
